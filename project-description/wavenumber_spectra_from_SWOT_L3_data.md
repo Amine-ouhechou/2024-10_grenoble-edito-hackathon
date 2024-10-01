@@ -1,4 +1,4 @@
-#  **Spectra_SWOT**
+#  **CWS_SWOT**
 
 ## 🚀 **Compute Wavenumber Spectra from SWOT L3 Data**
 
